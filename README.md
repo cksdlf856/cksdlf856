@@ -8,7 +8,8 @@
 - 💬 Tool & Editor : Eclipse / VScode / SublimeText / Websquare5 / SVN / Git / Jenkins / DBeaver / SQL Developer  
 - 🔭 Framework & Library : Spring / eGovFrame / Jquery / Highchart / Three.js  
 - 😄 DB : Oracle / MariaDB
-- ⚡ Server : AWS ec2 / Apache Tomcat / GitHub 
+- ⚡ Server : AWS ec2 / Apache Tomcat / GitHub / firebase
 - 📫 How to reach me: cksdlf4321@gmail.com
-- 👯 I’m looking to collaborate on !
+- Personal website: https://of-side.web.app
+- Website in operation: 
 
