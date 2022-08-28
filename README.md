@@ -11,5 +11,5 @@
 - ⚡ Server : AWS ec2 / Apache Tomcat / GitHub / firebase
 - 📫 How to reach me: cksdlf4321@gmail.com
 - Personal website: https://of-side.web.app
-- Website in operation: https://umakeme.kr
+
 
