@@ -9,6 +9,5 @@
 - 😄 DB : MariaDB / Mysql
 - ⚡ etc : git, github, svn
 - 📫 How to reach me: cksdlf856@naver.com
-- Personal website: https://of-side.web.app
 
 
